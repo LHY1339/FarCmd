@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dedicated-server.vcxproj -> C:\Users\32015\Desktop\FarCmd\x64\Release\dedicated-server.exe
